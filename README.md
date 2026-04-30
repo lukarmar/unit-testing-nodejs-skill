@@ -90,9 +90,3 @@ Review the test coverage of my UserController
 ```
 Create a builder for the CreateOrderDto
 ```
-
----
-
-## Repository
-
-[github.com/lukarmar/unit-testing-nodejs-skill](https://github.com/lukarmar/unit-testing-nodejs-skill)
